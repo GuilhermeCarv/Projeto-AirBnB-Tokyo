@@ -10,7 +10,7 @@ Projeto de análise de dados abertos acerca de locações do AirBnB em Tóquio, 
 
 A análise dos dados apresentados fornece um panorama geral com dados atualizados no dia 21/07/2021 e alguns insights e informações interessantes que resultaram em um artigo postado no medium.
 
-[Link para o projeto completo](https://medium.com/@guilherme_carvalho)
+[Link para o projeto completo](https://github.com/GuilhermeCarv/Projeto-AirBnB-Tokyo/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://medium.com/@guilherme_carvalho)
